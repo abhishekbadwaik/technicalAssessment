@@ -1,4 +1,4 @@
-# Apllication Load Balancer
+# Application Load Balancer
 
 resource "aws_lb" "alb" {
   name               = "test-lb-tf"
